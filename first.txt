@@ -1,2 +1,1 @@
-hello.this is first git commit....
-hello this is third commit
+hello.this is first git commit
